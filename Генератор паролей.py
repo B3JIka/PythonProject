@@ -50,3 +50,4 @@ while count != 0:
         continue
 
 print(chars)
+print('Готово')
